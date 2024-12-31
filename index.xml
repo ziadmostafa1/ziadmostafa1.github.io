@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Website of Ziad Mostafa</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ziadai.me/</link>
     <description>Recent content in Welcome on Website of Ziad Mostafa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ziadai.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Blog Post</title>
-      <link>http://localhost:1313/post/first-post/</link>
+      <link>https://ziadai.me/post/first-post/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/first-post/</guid>
+      <guid>https://ziadai.me/post/first-post/</guid>
       
         <description>Introduction post</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://ziadai.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://ziadai.me/about/</guid>
       
         <description>My background and experience</description>
       
