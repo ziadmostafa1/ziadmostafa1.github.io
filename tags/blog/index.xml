@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Website of Ziad Mostafa</title>
-    <link>https://ziadai.me/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on Website of Ziad Mostafa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ziadai.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Create a Blog in 2025</title>
-      <link>https://ziadai.me/post/how-to-create-a-blog-in-2025/</link>
+      <link>http://localhost:1313/post/how-to-create-a-blog-in-2025/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ziadai.me/post/how-to-create-a-blog-in-2025/</guid>
+      <guid>http://localhost:1313/post/how-to-create-a-blog-in-2025/</guid>
       
         <description>Steps to Create a Blog using HUGO</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>First Blog Post</title>
-      <link>https://ziadai.me/post/first-post/</link>
+      <link>http://localhost:1313/post/first-post/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ziadai.me/post/first-post/</guid>
+      <guid>http://localhost:1313/post/first-post/</guid>
       
         <description>Introduction post</description>
       
